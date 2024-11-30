@@ -1,0 +1,24 @@
+Ques:
+Explain the basic structure of an HTML document. Identify the mandatory tags
+and their purposes.
+
+Ans:
+-------STRUCTURE OF HTML---------
+->A line containing HTML version information, a declarative header section
+(delimited by the HEAD element), a body, which contains the document's actual 
+content.
+-> The <html> tags must begin and end the document and the <head> tags must 
+appear before the <body> tags.
+-> Also, the <title> tags must be within the <head> tags.
+-> Four essential HTML tags form the basic structure for every HTML file:
+<html></html>
+<head></head>
+<title></title>
+<body></body>
+---PURPOSES---
+<head> : Contains meta-information about the HTML document, such as title, 
+        styles, and scripts.
+<title> : Sets the title of the HTML document, displayed in the browser's title 
+        bar or tab.
+<body> : Contains the content of the HTML document, including text, images, 
+        links, and other elements.

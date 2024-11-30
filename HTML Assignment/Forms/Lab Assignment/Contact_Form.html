@@ -1,0 +1,86 @@
+<!--
+Task: Create a contact form with the following fields:
+o Full name (text input)
+o Email (email input)
+o Phone number (tel input)
+o Subject (dropdown menu)
+o Message (textarea)
+o Submit button
+
+Additional Requirements:
+o Use appropriate form validation using required, minlength, maxlength, and pattern.
+o Link form labels with their corresponding inputs using the for attribute.
+-->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body style="background-color: rgb(170, 168, 168);">
+
+<fieldset style="text-align: center; border: 0ch;">
+<h1>
+    Resigtration Form
+
+</h1><br>
+
+    <table style="text-align: left;">
+
+    <tr>
+   <form action="" method="post" title="form" name="" id="" class="" >
+
+    <label for="">Enter Name:</label>
+    <input type="text" name="name" id="" placeholder="Enter Name" required maxlength="12" minlength="2">
+    <br><br>
+    </tr>
+
+
+    <tr>
+    <label for="">Enter E-Mail:</label>
+    <input type="email" name="" id=""  placeholder="Enter E-Mail" >
+    <br><br>
+    </tr>
+
+    <tr>
+    <label for="">Enter Phone No:</label>
+    <input type="tel" name="" id="" placeholder="Enter Phone No" required maxlength="10" minlength="10"  >
+    <br><br>
+    </tr>
+
+    <tr>
+    <label for="">Message:</label>
+    <textarea name="" id="" cols="15" rows="4"></textarea>
+    <br><br>
+    </tr>
+
+
+    <tr>
+    <label for="">Select Subject: </label>
+    <select>
+    <option value="">--Select--</option>
+    <optgroup label="BCA"></optgroup>
+    <option value="">CPPM</option>
+    <option value="">DPA</option>
+    <option value="">Maths</option>
+    <option value="">IC</option>
+    <option value="">IC</option>
+    </select>
+    </tr>
+    
+
+    <tr>
+    <br><br>
+    <button>Submit</button>
+    <button>Reset</button>
+    </tr>
+   </form> 
+   </table>
+
+</fieldset>
+</body>
+</html>

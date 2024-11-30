@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        tr{
+            border: 3px dashed green;
+        }
+    </style>
+</head>
+<body>
+    
+    <table border="4px" style=" text-align: center  ; "width="80%" cellpadding="20px" >
+        <caption><h1>E-Mart</h1></caption>
+
+        <thead style="border: 3px dashed blue;">
+            <tr style="background-color: rgb(65, 96, 107);">
+                <th><h3>Product name</h3> </th>
+                <th> <h3>Product Image</h3></th>
+                <th> <h3>Price  </h3></th>
+                <th><h3>Discription</h3></th>
+                <th> <h3>Availibitly</h3></th>
+            </tr>
+        </thead>
+
+
+<tr>
+    <td>Rice</td>
+    <td>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19_VykULN5PSojcRgMg7_r5_Zvd3BM5WN1A&s" alt="" height="50px"placeholder="IMG" ></td>
+        <td> Rs 100</td>
+        <td>Pure Basmati Rice</td>
+        <td>
+            <input type="radio" name="Rice" id="Y">
+            <label for="">Availible</label>
+            <input type="radio" name="Rice" id="N">
+            <label for="">Not Availible</label>        
+        </td>
+</tr>
+<tr>
+    <td>Wheat</td>
+    <td>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC17aQX-BJhv5VBeu_0Qkggceet8FQ-iB-3g&s" alt="" height="50px"></td>
+        <td> Rs 50</td>
+        <td>Pure Premium Wheat</td>
+        <td>
+
+
+             <select name="" Available="">
+            <option value="">---select---</option>
+            <option value="">Available</option>
+            <option value="">Non Available</option>
+        </select>
+        </td>
+</tr>
+
+<tr>
+    <td>Dal</td>
+    <td>
+        <img src="https://gonefarmers.com/cdn/shop/products/image_cc51f8bf-501f-4ae7-a546-3a579299ca9d_1200x1200.jpg?v=1596652176" alt="" height="50px"></td>
+        <td> Rs 150</td>
+        <td>Premium Tuver Dal</td>
+        <td>
+            <input type="radio" name="Dal" id="Y">
+            <label for="">Availible</label>
+            <input type="radio" name="Dal" id="N">
+            <label for="">Not Availible</label>        
+        </td>
+</tr>
+
+
+
+
+
+    </table>
+</body>
+</html>

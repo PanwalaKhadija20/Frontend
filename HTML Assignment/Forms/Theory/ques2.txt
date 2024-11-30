@@ -1,0 +1,13 @@
+Ques:
+Explain the difference between the GET and POST methods in form submission.
+When should each be used?
+
+Ans:
+-> There are two fundamental HTTP methods. 
+-> GET is for fetching data, appending parameters in the URL, ideal for 
+searches. 
+-> POST, used for updates, sends data securely in the request body, perfect for
+forms.
+-> GET request is comparatively less secure because the data is exposed in the 
+URL bar. POST request is comparatively more secure because the data is not 
+exposed in the URL bar.

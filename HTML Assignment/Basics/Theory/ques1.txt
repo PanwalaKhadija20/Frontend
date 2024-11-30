@@ -1,0 +1,18 @@
+Ques: 
+Define HTML. What is the purpose of HTML in web development?
+
+Ans:
+-> HTML (HyperText Markup Language) is the code that is used to structure a web 
+page and its content.
+-> HyperText Markup Language (HTML) is the set of markup symbols or codes 
+inserted into a file intended for display on the internet. The markup tells web 
+browsers how to display a webpage's words and images.
+-> The role of HTML in web development is to provide the backbone and structure 
+of a web page. 
+-> It defines the layout and organization of content on a web page by using a 
+structure of elements.
+-> A web developer's job is to create websites. While their primary role is to 
+ensure the website is visually appealing and easy to navigate, many web 
+developers are also responsible for the website's performance and capacity.
+-> By the use of HTML,Javascript,They design the physical layout of each page, 
+integrate graphics, To enhance site.

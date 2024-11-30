@@ -1,0 +1,11 @@
+Ques:What are HTML forms used for? Describe the purpose of the input, textarea,
+select, and button elements.
+
+Ans:
+-> An HTML form is used to collect user input. The user input is most often 
+sent to a server for processing.
+-> The <input> element can be displayed in several ways, depending on the type 
+attribute.
+-> The <textarea> element defines a multi-line input field (a text area).
+-> The <select> element defines a drop-down list.
+-> The <button> element defines a clickable button.

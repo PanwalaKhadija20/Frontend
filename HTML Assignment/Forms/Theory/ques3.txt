@@ -1,0 +1,14 @@
+Ques:
+What is the purpose of the label element in a form, and how does it improve
+accessibility?
+
+Ans:
+-> The <label> element also help users who have difficulty clicking on very 
+small regions (such as radio buttons or checkboxes),because when the user 
+clicks the text within the <label> element, it toggles the radio button or 
+checkbox.
+-> The <label> element is used to associate a text label with a form <input> 
+field. 
+-> For users who rely on screen readers, the label tag provides a clear 
+description of each form control, making it easier to understand and interact 
+with the form.

@@ -1,0 +1,11 @@
+Ques: 
+Explain the structure of an HTML table and the purpose of each of the following
+elements: <table>, <tr>, <th>, <td>, and <thead>.
+
+Ans:
+-> An HTML table consists of one <table> element and one or more <tr>, <th>, 
+and <td> elements. 
+-> The <tr> element defines a table row.
+-> The <th> element defines a table header.
+-> The <td> element defines a table cell.
+-> The <thead> tag is used to group header content in an HTML table.

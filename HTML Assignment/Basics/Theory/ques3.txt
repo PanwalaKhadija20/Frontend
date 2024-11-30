@@ -1,0 +1,15 @@
+Ques:
+What is the difference between block-level elements and inline elements in
+HTML? Provide examples of each.
+
+Ans:
+-> Block elements are typically used to define larger blocks of content such as paragraphs, headings, and lists. Take up only as much width as necessary to display their content.
+-> Inline elements are typically used to define small pieces of content such as text or images that are integrated into a larger block of text.
+->  Block elements have top and bottom margins. Whereas Inline elements don't have a top and bottom margin. 
+-> block-level Elements begin on new lines, whereas Inline Elements do not.
+
+-> Example of an Inline Element :
+A Div Tag or Paragraph Tag
+
+-> Example of an Inline Element :
+ An Anchor Tag or Link Tag

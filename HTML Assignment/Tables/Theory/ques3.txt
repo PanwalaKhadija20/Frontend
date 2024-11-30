@@ -1,0 +1,16 @@
+Ques: 
+Why should tables be used sparingly for layout purposes? What is a better
+alternative?
+
+Ans:
+-> The World Wide Web Consortium discourages use of tables for layout because 
+they are striving for a web in which content and structure are completely 
+separate from presentation.
+-> Tables Are Not Accessible.
+
+------The alternative Of Tables-----
+        CSS Grid
+-> CSS Grid is widely supported in all modern browsers, making it a reliable 
+choice for web development. 
+-> CSS Grid allows for complex layouts that were previously difficult to 
+achieve with traditional layout methods.
